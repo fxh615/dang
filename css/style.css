@@ -141,7 +141,7 @@ a:hover, a:active, a:focus {
 #gallery,
 #contact {
   padding-top: 120px;
-  padding-bottom: 120px;
+  /* padding-bottom: 120px; */
   position: relative;
 }
 
@@ -151,8 +151,8 @@ a:hover, a:active, a:focus {
 }
 
 .overlay {
-  background: #304352;
-  opacity: 0.9;
+  /* background: #304352;
+  opacity: 0.9; */
   position: absolute;
   width: 100%;
   height: 100vh;
@@ -347,7 +347,7 @@ a:hover, a:active, a:focus {
   -webkit-align-items: center;
       -ms-flex-align: center;
         align-items: center;
-  height: 100vh;
+  /* height: 100vh; */
   text-align: center;
 }
 
@@ -675,7 +675,10 @@ footer {
 }
 .navbar-brand{
   padding: 0;
+}
 
+.kd{
+  /* padding-top: 100px; */
 }
 
 
